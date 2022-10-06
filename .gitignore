@@ -1,0 +1,16 @@
+movie_decider.spec
+build/movie_decider/Analysis-00.toc
+build/movie_decider/base_library.zip
+build/movie_decider/EXE-00.toc
+build/movie_decider/movie_decider.exe.manifest
+build/movie_decider/movie_decider.pkg
+build/movie_decider/PKG-00.toc
+build/movie_decider/PYZ-00.pyz
+build/movie_decider/PYZ-00.toc
+build/movie_decider/warn-movie_decider.txt
+build/movie_decider/xref-movie_decider.html
+build/movie_decider/localpycs/pyimod01_archive.pyc
+build/movie_decider/localpycs/pyimod02_importers.pyc
+build/movie_decider/localpycs/pyimod03_ctypes.pyc
+build/movie_decider/localpycs/struct.pyc
+dist/movie_decider.exe
