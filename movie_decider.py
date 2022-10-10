@@ -79,6 +79,7 @@ while True:
         os.chdir(my_dict[chosen])
         for name in folder_arr:
             if name.endswith('.mp4') or name.endswith('.mkv') or name.endswith('.avi'):
+                os.startfile(os.path.join(root,my_dict[chosen]))
                 os.startfile(name)
         exit(0)
     else:
